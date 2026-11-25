@@ -1,0 +1,17 @@
+# ---- 数据与产物（绝不入库） ----
+out/
+samples/
+work/
+logs/
+*.db
+*.db-wal
+*.db-shm
+*.apk
+*.i64
+*.log
+*.jsonl
+__pycache__/
+*.pyc
+.venv/
+profile.json
+books*.txt
